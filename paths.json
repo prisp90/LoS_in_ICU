@@ -1,0 +1,6 @@
+{
+  "eICU_path": "/Users/supreeth/omscs/cse6250_project/eICU_data/physionet.org/files/eicu-crd/2.0/",
+  "MIMIC_path": "/Users/supreeth/omscs/cse6250_project/MIMIC_data/physionet.org/files/mimiciv/0.4",
+  "eICU_data_path": "/Users/supreeth/omscs/cse6250_project/eICU_data/",
+  "MIMIC_data_path": "/Users/supreeth/omscs/cse6250_project/MIMIC_data/"
+}
