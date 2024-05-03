@@ -1,4 +1,4 @@
-# Project Title : Temporal Pointwise Convolutional Networks for Length of Stay Prediction in the Intensive Care Unit
+# Temporal Pointwise Convolutional Networks for Length of Stay Prediction in the Intensive Care Unit
 
 ## Overview
 The aim of the original project is to find the efficient allocation of Intensive Care Unit (ICU) beds, particularly addressing the crucial task of predicting the length of stay for current ICU patients. For this reproduction study, we would like to verify the following hypothesis.
